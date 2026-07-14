@@ -21,4 +21,11 @@ class AppColors {
   static const Color errorColor = Color.fromARGB(255, 255, 0, 0);
   static const Color infoColor = Color.fromARGB(255, 0, 0, 255);
 
+  //profile screen (soft pink theme, matches design reference)
+  static const Color screenGradientTop = Color(0xFFFBE7EF);
+  static const Color screenGradientBottom = Color(0xFFFFFFFF);
+  static const Color pinkAccent = Color(0xFFE85D8A);
+  static const Color pinkIconBg = Color(0xFFFCE4EC);
+  static const Color purpleIconBg = Color(0xFFEDE7F6);
+
 }

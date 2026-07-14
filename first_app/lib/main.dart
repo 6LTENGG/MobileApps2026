@@ -1,14 +1,8 @@
 import 'package:flutter/material.dart';
 
+import 'constant/app_colors.dart';
 import 'screens/home_screen.dart';
 import 'screens/profile_screen.dart';
-
-// Define AppColors to provide primaryColor used by the Theme
-class AppColors {
-  static const Color primaryColor = Color(0xFF6750A4);
-}
-
-
 
 void main(){
   runApp(const MyApp());
